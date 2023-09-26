@@ -20,10 +20,11 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)\
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### ⚙️ &nbsp;GitHub Analytics
+\
 <p align="center">
 <a href="https://github.com/hamdandirgantoro">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamdandirgantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
