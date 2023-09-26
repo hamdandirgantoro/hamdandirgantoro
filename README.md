@@ -24,8 +24,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### ⚙️ &nbsp;GitHub Analytics
-</br>
-<p align="center">
+
+<p style="margin-top:20px;" align="center">
 <a href="https://github.com/hamdandirgantoro">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamdandirgantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kresna1174&layout=compact&langs_count=8&theme=algolia"/>
