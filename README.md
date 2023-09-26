@@ -9,7 +9,6 @@
 ✉️ &nbsp;You can shoot me an email at hamdandirgantoro@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Portfolio]() for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
@@ -31,3 +30,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kresna1174&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p> 
+
+<p align="center">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+</p>
