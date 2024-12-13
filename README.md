@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore new technologies.\
-🌱 &nbsp;I'm on track for learning more about Web Development, and Mobile Development.\
+🌱 &nbsp;I'm on track for learning more about Web Development, and Game Development.\
 ✍️ &nbsp;In my free time, I like to learn a new programming language.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at hamdandirgantoro@gmail.com! I'll try to respond as soon as I can.\
