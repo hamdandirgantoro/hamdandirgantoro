@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)![Linux](https://img.shields.io/badge/-React-05122A?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
