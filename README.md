@@ -4,7 +4,7 @@
 
 💡 &nbsp; I like to explore new technologies.\
 🌱 &nbsp;I'm on track for learning more about Web Development, and Game Development.\
-✍️ &nbsp;In my free time, I like to learn about new new techs.\
+✍️ &nbsp;In my free time, I like to fiddle with linux and other stuff.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at hamdandirgantoro@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Portfolio](https://hamdan-dirgantoro.netlify.app) for more details about me. I'm open to feedback and suggestions!
